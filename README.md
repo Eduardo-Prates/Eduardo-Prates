@@ -22,10 +22,13 @@ Bachelor's degree in software engineering with approaches to programming using l
 ### 🏆 Projects:
 
 **⭐ Development of a website for the 2nd Feira Binacional De Tecnologia**
+
 Development of a web application with PHP, JS, HTML and CSS/BootStrap for Instituto Federal, Ciência e Tecnologia Sul-rio-grandense.
 
+
 **⭐ upload.ai**
-In my project, upload.ai, I developed a user-friendly video upload system with Node.js and React.js, incorporating AI-powered video transcription via the OpenAI API. To optimize transcription performance, I also leveraged WebAssembly technology, resulting in an efficient and interactive experience for users.
+
+In my project, upload.ai, I developed a user-friendly video upload system with Node.js and React.js, incorporating AI-powered video transcription via the OpenAI API. To optimize transcription performance, I also leveraged WebAssembly technology. The project utilized a stack of modern technologies, including Prisma for database management, Fastify for efficient web serving, and UI components from Shadcn/UI and Tailwind CSS for a visually appealing and responsive user interface, resulting in an efficient and interactive experience for users.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eduardo-Prates&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
