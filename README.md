@@ -30,7 +30,4 @@ Development of a web application with PHP, JS, HTML and CSS/BootStrap for Instit
 
 In my project, upload.ai, I developed a user-friendly video upload system with Node.js and React.js, incorporating AI-powered video transcription via the OpenAI API. To optimize transcription performance, I also leveraged WebAssembly technology. The project utilized a stack of modern technologies, including Prisma for database management, Fastify for efficient web serving, and UI components from Shadcn/UI and Tailwind CSS for a visually appealing and responsive user interface, resulting in an efficient and interactive experience for users.
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eduardo-Prates&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eduardo-Prates&bg_color=000&border_color=30A3DC&title_color=#006AFF&text_color=FFF) 
